@@ -1,0 +1,23 @@
+body{
+    font-family:sans-serif;margin:auto;width:800px;
+    background-color: chocolate;
+    background-image: url(./pexels-leon-ardho-1552252.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align:center;
+    color: white;
+}
+table{
+   
+   
+    border-collapse:collapse;
+    margin:25px auto 25px auto;
+    text-align:center;}
+th,td{
+    border:1px solid #000;padding:5px;
+}
+th{
+    background-color:white;font-weight:bold;
+}
